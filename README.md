@@ -1,4 +1,4 @@
-# Node Api
+# Github Handler Node Api
 This is a nice and perfect CLI based node application
 In this application you enter your github handler than its will show your information very nicly in your terminal.
 
